@@ -1,0 +1,7 @@
+C:\Users\Nauka\source\repos\Converter_CM\Converter_CM\bin\Debug\Converter_CM.exe.config
+C:\Users\Nauka\source\repos\Converter_CM\Converter_CM\bin\Debug\Converter_CM.exe
+C:\Users\Nauka\source\repos\Converter_CM\Converter_CM\bin\Debug\Converter_CM.pdb
+C:\Users\Nauka\source\repos\Converter_CM\Converter_CM\obj\Debug\Converter_CM.csprojAssemblyReference.cache
+C:\Users\Nauka\source\repos\Converter_CM\Converter_CM\obj\Debug\Converter_CM.csproj.CoreCompileInputs.cache
+C:\Users\Nauka\source\repos\Converter_CM\Converter_CM\obj\Debug\Converter_CM.exe
+C:\Users\Nauka\source\repos\Converter_CM\Converter_CM\obj\Debug\Converter_CM.pdb
